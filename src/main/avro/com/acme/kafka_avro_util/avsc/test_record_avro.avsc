@@ -1,0 +1,7 @@
+{"namespace": "com.acme.kafka_avro_util",
+ "type": "record",
+ "name": "TestRecordAvro",
+ "fields": [
+     {"name": "id", "type": "string"}
+ ]
+}
